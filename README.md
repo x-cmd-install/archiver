@@ -14,6 +14,25 @@ DEPRECATED. Please use mholt/archives instead.
 x install archiver
 ```
 
+## Code insight
+
+Total: **2,988** lines of code across **22** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,988 | 714 | 502 | 21 |
+| Markdown | 0 | 3 | 2 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.3 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 12/27 approved changesets -- score normalized to 4
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/mholt/archiver>
@@ -38,27 +57,20 @@ x install archiver
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 1 | 4 | 0 | 4 | 1 | 12 |
 
-## Code size
+## Distribution status
 
-Total: **2,988** lines of code across **22** files in the top 5 languages.
+Reported by **9** distros on [repology.org](https://repology.org/project/archiver). **7** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,988 | 714 | 502 | 21 |
-| Markdown | 0 | 3 | 2 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 12/27 approved changesets -- score normalized to 4
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `3.5.1` | ✅ latest |
+| Void | `3.5.1` | ✅ latest |
 
 ## Improve this data
 
@@ -69,4 +81,4 @@ Install metadata for archiver lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:20Z._
