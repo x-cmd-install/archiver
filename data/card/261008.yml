@@ -188,4 +188,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
-{"id":52473124,"author":{"login":"mholt","id":1128849,"node_id":"MDQ6VXNlcjExMjg4NDk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOA1OoOM4DIK0k","tag_name":"v3.5.1","target_commitish":"master","name":"v3.5.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2021-11-01T20:05:20Z","updated_at":"2021-11-01T20:06:13Z","published_at":"2021-11-01T20:06:13Z","assets":[],"body":"","reactions":{"total_count":5,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":2}}
